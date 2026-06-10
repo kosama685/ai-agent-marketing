@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SalesForge AI ERP — Streamlit Cloud Edition
 
 A beautiful, deployable Streamlit CRM/ERP MVP for sales and marketing operations. It is built from the uploaded Sales + Marketing AI ERP brief and adapted for easy live deployment on Streamlit Community Cloud.
@@ -142,3 +143,6 @@ Open the app, go to `Settings`, and click `Reset Demo Database`.
 ## License
 
 Internal/custom project template. Adapt as needed for your business.
+=======
+# ai-agent-marketing
+>>>>>>> 99ba924f2408394e3976e24f267b6d4f330a86c8
